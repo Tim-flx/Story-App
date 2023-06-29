@@ -1,0 +1,23 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.storyappsub2" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/soft_red</item>
+        <item name="colorPrimaryVariant">@color/light_red</item>
+        <item name="colorOnPrimary">@color/light_brown_two</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/brown</item>
+        <item name="colorSecondaryVariant">@color/light_red</item>
+        <item name="colorOnSecondary">@color/light_brown</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/sans_regular</item>
+        <item name="android:forceDarkAllowed">false</item>
+
+    </style>
+
+    <style name="Theme.storyappsub2" parent="Base.Theme.storyappsub2" />
+</resources>

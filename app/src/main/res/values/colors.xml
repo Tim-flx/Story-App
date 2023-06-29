@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Light Mode -->
+    <color name="light_red">#E8B4B8</color>
+    <color name="soft_red">#FFDF6F56</color>
+    <color name="light_brown">#A49393</color>
+    <color name="brown">#67595E</color>
+    <color name="light_brown_two">#8D6E63</color>
+
+    <!-- Night Mode -->
+    <color name="night_blue">#41729F</color>
+    <color name="blue_gray">#5885AF</color>
+    <color name="dark_blue">#274472</color>
+    <color name="baby_blue">#C3E0E5</color>
+</resources>

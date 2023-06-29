@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="invalid_email_error">This is not a valid email format</string>
+    <string name="invalid_password_error">Password must have at least 8 characters</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="welcome">Stories for everyone, by everyone</string>
+    <string name="register_here">Don\'t have an account? Click Here</string>
+    <string name="logout">Logout</string>
+    <string name="description">Description</string>
+    <string name="time">Time</string>
+    <string name="story_picture">Story Picture</string>
+    <string name="add_story">Add Story</string>
+    <string name="upload">Upload</string>
+    <string name="fill_out_all_the_field">Fill out all the fields.</string>
+    <string name="error">Oops, something went wrong. Please try again later.</string>
+    <string name="no_image_notification">Please insert the image file first.</string>
+    <string name="failed_open_camera">"Failed to open camera."</string>
+    <string name="success_take_picture">Success to take picture.</string>
+    <string name="failed_take_picture">Failed to take picture.</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="description_with">Description: \n%s</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="back_to_main_page">Back to Main Page</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="change_language">Change Language</string>
+    <string name="dateFormat">%1$s</string>
+    <string name="open_map">Open Map</string>
+    <string name="my_loc_button">Location: \nLat = %1s \nLon = %2s</string>
+    <string name="loc_not_found">Location is not found. Try Again</string>
+    <string name="loc_added">Location Successfuly Added</string>
+    <string name="insert_my_location">Attach My Location</string>
+    <string name="timeout">Timeout</string>
+    <string name="retry">Retry</string>
+</resources>

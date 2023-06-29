@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="invalid_email_error">Format email belum valid</string>
+    <string name="invalid_password_error">Password harus memiliki minimal 8 karakter</string>
+    <string name="name">Nama</string>
+    <string name="name_hint">Masukkan nama anda</string>
+    <string name="email_hint">Masukkan email anda</string>
+    <string name="password_hint">Masukkan password anda</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="welcome">Tempat untuk berbagi cerita</string>
+    <string name="register_here">Belum punya akun? Daftar di sini!</string>
+    <string name="logout">Logout</string>
+    <string name="description">Deskripsi</string>
+    <string name="time">Waktu</string>
+    <string name="story_picture">Gambar Story</string>
+    <string name="add_story">Masukkan Story</string>
+    <string name="upload">Mengunggah</string>
+    <string name="fill_out_all_the_field">Isi semua kolom yang tersedia.</string>
+    <string name="error">Ups, ada yang salah. Silakan coba lagi nanti.</string>
+    <string name="no_image_notification">Harap masukkan file gambar terlebih dulu.</string>
+    <string name="failed_open_camera">Gagal membuka kamera.</string>
+    <string name="success_take_picture">Berhasil mengambil gambar.</string>
+    <string name="failed_take_picture">Gagal mengambil gambar.</string>
+    <string name="choose_picture">Pilih Gambar yang diinginkan</string>
+    <string name="description_with">Deskripsi: \n%s</string>
+    <string name="take_picture">Ambil Gambar</string>
+    <string name="open_gallery">Buka Gallery</string>
+    <string name="back_to_main_page">Balik ke Halaman Utama</string>
+    <string name="switch_camera">Ganti posisi kamera</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="dateFormat">%1$s</string>
+    <string name="open_map">Buka Peta</string>
+    <string name="my_loc_button">Lokasi: \nLat = %1s \nLon = %2s</string>
+    <string name="loc_not_found">Lokasi tidak ditemukan. Coba lagi</string>
+    <string name="loc_added">Lokasi berhasil ditambahkan</string>
+    <string name="insert_my_location">Masukkan Lokasi Saya</string>
+    <string name="timeout">Timeout</string>
+    <string name="retry">Coba lagi</string>
+</resources>
